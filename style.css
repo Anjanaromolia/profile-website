@@ -8,7 +8,7 @@
      opacity: 0.1;
   }
 a {
-    text-decoration: none;
+    text-decoration: none; !important
 }
 .image {
     height: 120px;
